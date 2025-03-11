@@ -1,0 +1,3 @@
+index1.html is working properly and need to distribute the code  into the index.html , style.css and main.js 
+work on the the complete index2.html further. 
+That is : 10 March 2025
